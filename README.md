@@ -1,4 +1,7 @@
-# api documentation for  [package-json (v4.0.1)](https://github.com/sindresorhus/package-json#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-package-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-package-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-package-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-package-json)
+# npmdoc-package-json
+
+#### basic api documentation for  [package-json (v4.0.1)](https://github.com/sindresorhus/package-json#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-package-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-package-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-package-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-package-json)
+
 #### Get metadata of a package from the npm registry
 
 [![NPM](https://nodei.co/npm/package-json.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/package-json)
@@ -79,7 +82,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "4.0.1"
+    "version": "4.0.1",
+    "bin": {}
 }
 ```
 
